@@ -1,0 +1,19 @@
+{
+  "name": "java-g4",
+  "version": "1.0.0",
+  "description": "使用JS语言解析java-AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgreeStudio/java-g4.git"
+  },
+  "author": "wangyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgreeStudio/java-g4/issues"
+  },
+  "homepage": "https://github.com/AgreeStudio/java-g4#readme"
+}
